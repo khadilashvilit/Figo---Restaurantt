@@ -1,0 +1,262 @@
+@media (max-width:991px){
+    .title-remove-text{
+        display: none;
+    }
+    .float-right-class{
+        float: right;
+    }
+    .manual-margin{
+        margin-top: 0.5rem !important;
+    }
+    .responsive-change p {
+        font-size: 15px;
+    }
+    .responsive-change h5 {
+        font-size: 18px;
+    }
+    .display-4{
+        font-size: 2.5rem !important;
+        }
+    .display-title{
+            margin: 0 !important;
+        }
+    .title-remove{
+            display: none;
+        }
+    .font-size{
+            font-size: 1.5rem;
+        }   
+    .text-disappear{
+        display: none;
+    }
+    .title-size{
+        font-size: 27px;
+    }
+    .margin-size{
+        margin: 0 !important;
+    }
+    .margin-box-size{
+        margin-left:0 !important;
+    } 
+    .font-height{
+        font-size: 13px;
+    }
+   .right-mm{
+       right: 50px;
+   }
+   .icon-list {
+    font-size: 19px;
+    }
+    .font-2{
+        font-size: 10px;
+    }
+    .font-3{
+        font-size: 9px;
+    }
+}
+@media(max-width:955px){
+    .display-4{
+    font-size: 2.5rem !important;
+    }
+    .display-title{
+        margin: 0 !important;
+    }
+    .title-remove{
+        display: none;
+    }
+    .font-size{
+        font-size: 1.5rem;
+    }
+    .burger{
+        width: 100%;
+    }
+}
+@media (max-width:767px){
+    .size-shrift{
+        margin-top: 60px;
+    }
+    .pizza-poto{
+        margin-top: 0;
+    }
+
+    .nav-box{
+        display: none;
+    }
+    .navv{
+        display: block;
+    }
+    .pizza{
+        display: none;
+    }
+    .bg-image{
+        background: url(../photo/pizza.jpg) no-repeat right;
+        background-size: contain;
+        height: 300px;
+    }
+    .title-remove-text{
+        display: block;
+    }
+    .manual-float{
+        float: right;
+    }
+    .leafff{
+        right: 0;
+    }
+    .flex-column {
+        flex-direction: row!important;
+    }
+    .nav{
+        flex-wrap: unset;
+    }
+    .margin-responsive {
+        margin-left: 0 !important;
+    }
+    .margin-top{
+        margin-top:40px;
+    }
+    .flex-align{
+        align-items: baseline;
+    }
+    .nav-link {
+        padding:.5rem 1.2rem;
+    }
+    .image{
+        right:0 !important;
+    }
+    .font-1 {
+        font-size: 15px;
+    }
+    .font-2 {
+        font-size: 14px;
+    }
+    .font-3 {
+        font-size: 14px;
+    }
+
+}
+@media (max-width:575px){
+    .flex-size{
+        display: flex;
+        justify-content: center;
+    }
+    .image {
+        right: 0 !important;
+        max-width: 141px;
+        width: 100%;
+    
+    }
+    .box-height {
+        max-width: 200px;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .font-1 {
+        font-size: 18px;
+    }
+    .font-2{
+        font-size: 12px;
+    }
+    .nav-link {
+        padding: .5rem 1rem;
+    }
+    .font-3{
+        font-size: 12px;
+    }
+}
+@media (max-width:539px){
+    .bg-image{
+        background: none;
+    }
+    .pizza{
+        display: block;
+    }
+    .text-ar{
+        margin: 0 auto;
+        width: 80%;
+    }
+    .flex-responsive{
+        display: block !important;
+    }
+    .nav-link {
+        padding: .5rem .8rem;
+    }
+}
+@media (max-width:487px){
+    .nav-link {
+        padding: .5rem .7rem;
+    }
+    .h2, h2 {
+        font-size: 1.3rem;
+    }
+    .h3, h3 {
+        font-size: 1rem;
+    }
+    .image{
+        display: none;
+    }
+}
+
+@media(max-width:470px){
+     .box{
+        display: none;
+    }
+}
+@media(max-width:360px){
+    .margin-box, .mx-5, .ml-5, .mr-5{
+        margin:0 !important;
+    } 
+    .display-4{
+        font-size: 2rem !important;
+    }
+    .manual-width {
+        width: 58% !important;
+    }
+    .title-remove-text{
+        display: none;
+    }
+    .lleeaaff {
+        right: 0px !important;
+    }
+    .leaf{
+        left: 0 !important;
+    }
+    .title-title{
+        margin-left: 3rem !important;
+    }
+    .herbs {
+        right: 0px;
+        bottom: -29px;
+    }
+    .img-size{
+        width: 50% !important;
+    }
+    .btn-btn{
+        margin-right:1rem!important;
+    }
+    .ttext-size{
+        font-size: 15px !important;
+    }
+    .arroww {
+        flex-flow: row nowrap;
+        font-size: 35px;
+    }
+    .font-3{
+    display: none;
+    }
+}
+@media (max-width:324px){
+    .leaf{
+        bottom: 255px;
+    }
+    .flex-wrapp{
+        flex-flow: row nowrap;
+    }
+}
+@media (max-width:320px){
+    .bg-image{
+        margin-top: 0 !important;
+    }
+    .lleeaaff{
+        top: 18px;
+    }
+}
